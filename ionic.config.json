@@ -1,0 +1,7 @@
+{
+  "name": "picUpload",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
